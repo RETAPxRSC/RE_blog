@@ -7,8 +7,8 @@ titleTemplate: Recursive Exploration
 
 hero:
   name: Retap's Blog
-  text: RE-Start，一本正在生长的技术手记
-  tagline: RE here · 从零开始的代码日历，和那些值得被记录的学习轨迹
+  text: ReStart，一本正在生长的技术手记
+  tagline: ReView here · 回顾从零开始的学习日历，和那些值得被记录的轨迹
   image:
     src: /logo.svg
     alt: Vitest

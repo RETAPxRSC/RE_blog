@@ -1,6 +1,6 @@
 ---
 tags:
-  - C++
+  - Cpp
 comment: false
 ---
 ### **当使用** `setprecision()` **时，后续所有浮点输出都会被影响**

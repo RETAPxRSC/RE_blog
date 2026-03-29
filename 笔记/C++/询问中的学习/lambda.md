@@ -1,6 +1,6 @@
 ---
 tags:
-  - C++
+  - Cpp
 comment: false
 ---
 # Lambda 的结构拆解

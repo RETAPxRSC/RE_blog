@@ -1,6 +1,6 @@
 ---
 tags:
-  - C++
+  - Cpp
 comment: false
 ---
 # 1. enum CPU_Rank（枚举类型）

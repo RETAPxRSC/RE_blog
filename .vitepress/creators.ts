@@ -45,6 +45,19 @@ export const creators: Creator[] = [
     nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
     emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
   },
+  {
+    name: 'RETAP',
+    avatar: '',
+    username: 'RETAPxRSC',
+    title: '小小的博客构建者',
+    desc: '代码初学者，从C++开始，探索自己的代码之路',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/RETAPxRSC' },
+      { type: 'twitter', icon: 'twitter', link: 'https://x.com/RETAP_SMS' },
+    ],
+    nameAliases: ['RE', 'RETAP'],
+    emailAliases: ['retap1122@outlook.com'],
+  },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator

@@ -7,8 +7,8 @@ titleTemplate: Recursive Exploration
 
 hero:
   name: ~ReLab_Blog^
-  text: 从RE开始，一本正在生长的技术手记
-  tagline: RE here · 记录从零开始的代码成长，和那些值得被记录的学习轨迹
+  text: RE-Start，一本正在生长的技术手记
+  tagline: RE here · 从零开始的代码日历，和那些值得被记录的学习轨迹
   image:
     src: /logo.svg
     alt: Vitest

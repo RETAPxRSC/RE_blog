@@ -138,8 +138,13 @@ export default defineConfig({
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
-      copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT 创作者们',
+      copyright: `
+        <a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT 创作者们
+        <br>
+        <a href="https://ipw.cn/ssl/?site=r1tap.me" title="本站支持SSL安全访问" target="_blank">
+          <img style="display:inline-block;vertical-align:middle" alt="本站支持SSL安全访问" src="https://static.ipw.cn/icon/ssl-s1.svg">
+        </a>
+      `,
     },
     search: {
       provider: 'local',
